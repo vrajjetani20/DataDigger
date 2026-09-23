@@ -193,23 +193,28 @@ The project uses `SUM()` and `GROUP BY` to analyze revenue and product quantitie
 
 ### 📋 Display All Products
 
-![Display All Products](./screenshots/Screenshot-1.png)
+<img width="1079" height="719" alt="Screenshot 2026-09-16 112114" src="https://github.com/user-attachments/assets/f8658938-a5ca-48c1-b894-93bf039cdb4e" />
+
 
 ### 📊 Products in Descending Price Order
 
-![Products Ordered by Price](./screenshots/Screenshot-2.png)
+<img width="1079" height="719" alt="Screenshot 2026-09-16 112125" src="https://github.com/user-attachments/assets/d538043a-edc5-4d70-9fdd-aea29e5105f2" />
+
 
 ### 💰 Products Between 500 and 2000
 
-![Products Between 500 and 2000](./screenshots/Screenshot-3.png)
+<img width="1079" height="719" alt="Screenshot 2026-09-16 112135" src="https://github.com/user-attachments/assets/55c2a2b0-7f58-4a70-938b-fd4663582629" />
+
 
 ### 🏆 Most Expensive Product
 
-![Most Expensive Product](./screenshots/Screenshot-4.png)
+<img width="1079" height="719" alt="Screenshot 2026-09-16 112145" src="https://github.com/user-attachments/assets/6e8f41e9-81ec-409d-be3c-bb4f2b9068de" />
+
 
 ### 💵 Cheapest Product
 
-![Cheapest Product](./screenshots/Screenshot-5.png)
+<img width="1079" height="719" alt="Screenshot 2026-09-16 112156" src="https://github.com/user-attachments/assets/8b1bb5f5-44b7-474e-be7e-780fc8021bea" />
+
 
 > 📌 **Note:** Put the five provided screenshots inside a `screenshots` folder in your GitHub repository and rename them to `Screenshot-1.png` through `Screenshot-5.png`.
 
