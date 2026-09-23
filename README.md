@@ -215,16 +215,6 @@ The project uses `SUM()` and `GROUP BY` to analyze revenue and product quantitie
 
 GitHub supports relative image paths in README files, which makes repository screenshots easy to display. citeturn0search0turn0search2
 
----
-
-## 🎥 Project Video
-
-▶️ **Watch the SQL Project Demo:**  
-[🎬 Click Here to Watch the Video](https://1drv.ms/v/c/add06c1d01a88aae/IQDoiR74mVdeTbmIpPG1HWKTAY6ZlmZVMpWzcm6EjpftjNY?e=MwkJ93)
-
-> 🔗 Replace `YOUR_VIDEO_LINK_HERE` with your YouTube, Google Drive, or other video link.
-
----
 
 ## 📁 Project Files
 
@@ -317,9 +307,7 @@ SELECT * FROM OrderDetails;
 
 ## 👨‍💻 Author
 
-**Swayam Vekariya**
-
-💻 Beginner SQL / Database Project
+**Vraj Jetani**
 
 ⭐ If you like this project, consider giving the repository a star!
 
